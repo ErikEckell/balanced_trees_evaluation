@@ -1,4 +1,4 @@
-# Trees Tarea 3
+# Balanced trees
 
 C++ implementations of three classic binary search tree structures, each in its own self-contained CMake project:
 
